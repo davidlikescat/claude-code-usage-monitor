@@ -1,0 +1,12 @@
+# Build artifacts
+build/
+dist/
+*.spec
+__pycache__/
+
+# macOS
+.DS_Store
+
+# Python
+*.pyc
+.venv/
