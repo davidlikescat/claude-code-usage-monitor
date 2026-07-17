@@ -1,5 +1,11 @@
 # Claude Code Usage Monitor
 
+## Download
+
+[**Download the latest .dmg**](https://github.com/davidlikescat/claude-code-usage-monitor/releases/latest) — open it and drag ClaudeUsage to Applications.
+
+> Unsigned build: on first launch, right click ClaudeUsage.app -> Open to get past the Gatekeeper warning.
+
 A lightweight macOS menubar app that displays your Claude Code API usage as a battery indicator.
 
 ## Features
