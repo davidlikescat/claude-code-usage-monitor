@@ -60,3 +60,7 @@ For Pro/Team subscription users, OAuth is recommended (uses your subscription, n
 - MenuBarExtra API
 - ServiceManagement (launch at login)
 - No third-party dependencies
+
+## Build log
+
+- [개발기 (Korean): Claude Code 사용량 확인하는 법 — 맥 메뉴바 실시간 모니터링](https://aicoder-lab.blogspot.com/2026/06/claude-code.html)
